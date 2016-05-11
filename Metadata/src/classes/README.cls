@@ -1,3 +1,3 @@
 public with sharing class README {
-    //SAMPLE STRUCTURE
+    //SAMPLE STRUCTURE s
 }
